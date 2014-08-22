@@ -1,5 +1,4 @@
-## Creates a matrix & caches its inverse
-## Computes & retrieves its inverse
+## Creates a matrix & caches its inverse, and computes & returns its inverse
 
 ## The first function creates a matrix that can cache its inverse
 
